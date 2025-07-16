@@ -57,6 +57,18 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        // Therapy brand colors
+        therapy: {
+          sage: "hsl(var(--therapy-sage))",
+          "sage-light": "hsl(var(--therapy-sage-light))",
+          teal: "hsl(var(--therapy-teal))",
+          "teal-light": "hsl(var(--therapy-teal-light))",
+          warm: "hsl(var(--therapy-warm))",
+          "warm-light": "hsl(var(--therapy-warm-light))",
+          navy: "hsl(var(--therapy-navy))",
+          gray: "hsl(var(--therapy-gray))",
+          "gray-light": "hsl(var(--therapy-gray-light))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
